@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ekanshgouttam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ekanshgouttam/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ekanshgouttam/leetcode/tree/master/0229-majority-element-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ekanshgouttam/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ekanshgouttam/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ekanshgouttam/leetcode/tree/master/0242-valid-anagram) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -74,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ekanshgouttam/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
