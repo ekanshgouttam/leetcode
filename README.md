@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ekanshgouttam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ekanshgouttam/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ekanshgouttam/leetcode/tree/master/0229-majority-element-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ekanshgouttam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ekanshgouttam/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ekanshgouttam/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ekanshgouttam/leetcode/tree/master/0242-valid-anagram) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ekanshgouttam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ekanshgouttam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ekanshgouttam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
