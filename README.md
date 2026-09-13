@@ -10,12 +10,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ekanshgouttam/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ekanshgouttam/leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ekanshgouttam/leetcode/tree/master/0229-majority-element-ii) |
+| [0835-image-overlap](https://github.com/ekanshgouttam/leetcode/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ekanshgouttam/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ekanshgouttam/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ekanshgouttam/leetcode/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/ekanshgouttam/leetcode/tree/master/0835-image-overlap) |
 ## Simulation
 |  |
 | ------- |
